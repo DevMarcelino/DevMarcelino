@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Jonathas Marcelino
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Jonathas Marcelino, tenho 18 anos e sou natural de Pernambuco. Concluí o ensino médio na Etec Raposo Tavares (SP), com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Engenharia de Software na UNICID(EAD) e Ciencia da Computaçao na Università Piemonte Orientale (Italia). 
 
